@@ -1,0 +1,25 @@
+{
+  "name": "mayunfeng/supports",
+  "description": "common components",
+  "keywords": ["support", "array", "collection", "config", "http", "guzzle"],
+  "support": {
+    "issues": "https://github.com/mayunfeng/supports/issues",
+    "source": "https://github.com/mayunfeng/supports"
+  },
+  "authors": [
+    {
+      "name": "mayunfeng",
+      "email": "mayunfeng@jwsem.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mayunfeng\\Supports\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
