@@ -18,8 +18,8 @@
     "ext-simplexml": "*",
     "ext-libxml": "*",
     "ext-mbstring": "*",
-    "guzzlehttp/guzzle": "^6.0",
-    "monolog/monolog": "^1.23"
+    "guzzlehttp/guzzle": "*",
+    "monolog/monolog": "*"
   },
   "autoload": {
     "psr-4": {
